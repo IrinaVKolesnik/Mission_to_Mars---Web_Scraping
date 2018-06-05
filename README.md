@@ -22,3 +22,5 @@ Obtains high resolution images for each of Mar's hemispheres from [USGS Astrogeo
 
 ## Step 2 - MongoDB and Flask Application
 Creating a new HTML page that displays all of the information that was scraped from the URLs above using MongoDB with Flask templating.
+
+![My version of the Assignment](mission_to_mars.jpg)
